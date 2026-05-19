@@ -1,45 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://smartpet.liiink.site/</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://smartpet.liiink.site/best-pet-cameras.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://smartpet.liiink.site/best-pet-feeders.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://smartpet.liiink.site/best-pet-trackers.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://smartpet.liiink.site/furbo-review.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://smartpet.liiink.site/about.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://smartpet.liiink.site/privacy.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
+  <url><loc>https://smartpet.liiink.site/</loc><lastmod>2026-05-19</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <!-- Pet Cameras -->
+  <url><loc>https://smartpet.liiink.site/best-pet-cameras.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://smartpet.liiink.site/best-pet-camera-for-cats.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://smartpet.liiink.site/best-pet-camera-without-subscription.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://smartpet.liiink.site/best-budget-pet-camera.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <!-- Pet Feeders -->
+  <url><loc>https://smartpet.liiink.site/best-pet-feeders.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://smartpet.liiink.site/best-automatic-cat-feeder.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://smartpet.liiink.site/best-smart-dog-feeder.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://smartpet.liiink.site/best-wet-food-automatic-feeder.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://smartpet.liiink.site/best-feeder-multiple-cats.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <!-- Pet Trackers -->
+  <url><loc>https://smartpet.liiink.site/best-pet-trackers.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://smartpet.liiink.site/best-cat-gps-tracker.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://smartpet.liiink.site/gps-tracker-without-subscription.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://smartpet.liiink.site/fi-vs-tractive.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <!-- Reviews -->
+  <url><loc>https://smartpet.liiink.site/furbo-review.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://smartpet.liiink.site/petlibro-granary-review.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://smartpet.liiink.site/petcube-bites-2-lite-review.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://smartpet.liiink.site/tractive-gps-review.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- How-To Guides -->
+  <url><loc>https://smartpet.liiink.site/how-to-choose-pet-camera.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://smartpet.liiink.site/how-to-set-up-smart-feeder.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://smartpet.liiink.site/pet-camera-privacy-security.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://smartpet.liiink.site/pet-tech-apartment-living.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://smartpet.liiink.site/gps-tracker-battery-tips.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- Static -->
+  <url><loc>https://smartpet.liiink.site/about.html</loc><lastmod>2026-05-19</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://smartpet.liiink.site/privacy.html</loc><lastmod>2026-05-19</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
 </urlset>
